@@ -27,4 +27,4 @@ Aqui estão as linguagens que eu domino:
 
 Aqui está o link para o meu LinkedIn:
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/145/145807.png)](https://www.linkedin.com/in/joab-fran%C3%A7a-44b9bb307/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/145/145807.png)](https://www.linkedin.com/in/joab-fran%C3%A7a-44b9bb307/){: width="30" height="30"}
