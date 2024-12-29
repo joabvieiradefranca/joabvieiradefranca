@@ -28,5 +28,5 @@ Aqui estão as linguagens que eu domino:
 Aqui está o link para o meu LinkedIn:
 
 <a href="https://www.linkedin.com/in/joab-fran%C3%A7a-44b9bb307/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="33" height="33">
 </a>
