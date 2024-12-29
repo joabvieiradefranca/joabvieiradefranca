@@ -27,4 +27,4 @@ Aqui estão as linguagens que eu domino:
 
 Aqui está o link para o meu LinkedIn:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/joab-fran%C3%A7a-44b9bb307/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/9/9d/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/joab-fran%C3%A7a-44b9bb307/)
