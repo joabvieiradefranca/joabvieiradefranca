@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Linguagens que eu domino
 
 Aqui estão as linguagens que eu domino:
@@ -21,3 +22,9 @@ Aqui estão as linguagens que eu domino:
 | Python | Java | HTML | CSS |
 |--------|------|------|-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"> |
+
+# Redes Sociais
+
+Aqui está o link para o meu LinkedIn:
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/joab-fran%C3%A7a-44b9bb307/)
